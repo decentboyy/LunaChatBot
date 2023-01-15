@@ -27,7 +27,7 @@ $ python3 luna.py
 
 ## Heroku
 
-[![Deploy](https://www.openfaas.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheHamkerCat/LunaChatBot/tree/master)
+[![Deploy](https://www.openfaas.com/deploy/button.svg)](https://www.openfaas.com/deploy?template=https://github.com/TheHamkerCat/LunaChatBot/tree/master)
 
 
 ## Docker
