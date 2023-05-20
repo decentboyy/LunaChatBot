@@ -1,4 +1,4 @@
-HEROKU = True # Make it False if you're not deploying on heroku.
+HEROKU = False # Make it False if you're not deploying on heroku.
 
 if HEROKU:
     from os import environ
@@ -10,8 +10,8 @@ if HEROKU:
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
 
-    bot_token = "16901971:AAFqdM_SQE1PB2P1xLr67k"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    bot_token = "5611176803:AAHL17RUNLA_CgBSXpfifxProLl66AzXNIk"
+    ARQ_API_KEY = "OCXZLH-ZJPPDA-SGRBWJ-TQQQZP-ARQ"
 # List of supported languages >>
 # https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
     LANGUAGE = "en"
